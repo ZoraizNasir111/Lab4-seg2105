@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductManager-LAB4</string>
+    <string name="product_manager">Product Manager</string>
+    <string name="product_price">Product Price</string>
+    <string name="delete">DELETE</string>
+    <string name="find">FIND</string>
+    <string name="add">ADD</string>
+    <string name="product_name">Product Name</string>
+    <string name="not_assigned">Not Assigned</string>
+    <string name="product_id">Product ID</string>
+</resources>
